@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.malei.carbybuyapp" >
+    <application>
+        <activity android:name=".CarBuyActivity">
+        </activity>
+    </application>
+
+</manifest>
+
+
